@@ -8,7 +8,7 @@ export default {
     extend: {
       fontFamily:{
         pacifico: 'Pacifico',
-        pop: 'Poetsen One'
+        pop: 'Mochiy Pop P One'
       }
     },
   },
